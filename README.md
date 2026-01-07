@@ -100,8 +100,7 @@ Review Python scripts for data cleaning
 Run SQL queries for analysis
 
 Open Power BI file to explore dashboards
-Author
 
-Chirashree
+Author-Chirashree
 Data Analytics Project – Ola Ride Insights
 
